@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app color="black" dark>
       <div>
         <h2>SpaceX Timeline</h2>
       </div>
